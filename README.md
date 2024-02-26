@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/><p align="left"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&&center=false&vCenter=false&pause=1000&color=BD3BF7&repeat=false&width=220&lines=My+Stats" alt="Typing SVG" /></a>
+#  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&&center=false&vCenter=false&pause=1000&color=BD3BF7&repeat=false&width=220&lines=My+Stats" alt="Typing SVG" /></a>
 
 |🔥 Streak Stats | 💻 GitHub Profile Stats |
 | ------------- | ------------- |
