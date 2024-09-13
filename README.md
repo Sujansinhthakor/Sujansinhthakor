@@ -1,5 +1,5 @@
 # Hey There! 👋
-I'm Sujansinh Thakor - I'm an Undergrad Pursuing B.Tech in Computer Science at VIT Bhopal. I'm interested in Web Devlopment and Android Development. I work on random useless things in my free time.
+I'm Sujansinh Thakor
 
 <!--
 **Sujansinhthakor/Sujansinhthakor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
